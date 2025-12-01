@@ -17,18 +17,6 @@ Verify alignment, direction consistency, and data quality
 
 All work was done from scratch, using only the raw CSV files and the experiment description.
 
-🗂️ Repository Structure
-cable-tracking-case-study/
-│
-├── README.md                ← You are here
-│
-├── notebooks/               ← Jupyter notebooks used for analysis
-│   ├── .keep
-│   └── cable_analysis.ipynb (to be uploaded)
-│
-└── src/                     ← Optional python scripts (currently empty)
-    └── .keep
-
 🚀 1. Column Identification (Data Intuition)
 📌 Time Columns (Columns 0 and 1)
 
